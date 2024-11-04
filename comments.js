@@ -15,4 +15,5 @@ app.use(bodyParser.json());
 const comments = [
     { id: 1, author: 'John', text: 'Hello World' },
     { id: 2, author: 'Doe', text: 'Hi, planet!' },
-    { id: 3, author: 'Foo', text: 'Hello
+    { id: 3, author: 'Foo', text: 'Hello' }
+]
